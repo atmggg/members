@@ -1,24 +1,21 @@
 # 名前
- * hoge(id)
+ * あたまがぐあんぐあん(atmggg)
 
 # 自己紹介
-
-(例)
-** で働く**エンジニア(デザイナー)です。コミュ障です。
+今はwebディレクター。以前はwebデザイナー。フロントエンドなことは少しだけ。
 
 # スキル
- * hoge
- * hoge
+ * HTML、css、javascript,phpとか
+ * 現在はUXデザイナーになろうとしている
 
 # 趣味
- * hoge
- * hoge
+ * VJとかやってます
+ * PVとかも時々作ります
 
 # 好きなこと
-  * hoge
-  * hoge
+  * 音楽
+  * お笑い
 
 # 各種URL
- * [Twitter]()
- * [Facebook]()
- * [Portfolio]()
+ * [Twitter](https://twitter.com/atmggg)
+ * [Facebook](https://www.facebook.com/odoketedance)
